@@ -1,1 +1,1 @@
-Hello index
+Mock Election Location forthcoming
